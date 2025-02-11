@@ -1,4 +1,4 @@
-# 🏋️ Gym Management System - Admin Website
+# 🏋️ Gym Management System - Mobile App
 
 ## 📌 Overview
 This is the **Admin Dashboard** for a comprehensive **Gym Management System**, developed during my high school years. The system provides full control over gym operations, allowing management of **personal trainers (PTs), clients, exercises, evaluations, nutrition plans, measurements, schedules**, and much more.
@@ -25,9 +25,9 @@ This repository contains the **React-based web application** that serves as the 
   - View gym activity, client progress, and PT performance  
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js ⚛️ [this repo]
-- **API:** NEXT JS[Not included in this repo]  
-- **Mobile App:** React Native [Not included in this repo]  
+- **Frontend:** React.js ⚛️ [Not included in this repo]  
+- **API:** NEXT JS [Not included in this repo]  
+- **Mobile App:** React Native [this repo] 
 
 ## 📜 Full Project Report  
 For a detailed explanation of the project, you can access the **full report** here:  
