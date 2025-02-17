@@ -26,7 +26,7 @@ This repository contains the **React-based web application** that serves as the 
 
 ## 🛠️ Tech Stack
 - **Frontend:** React.js ⚛️ [Not included in this repo]  
-- **API:** NEXT JS [Not included in this repo]  
+- **API:** EXPRESS JS [Not included in this repo]  
 - **Mobile App:** React Native [this repo] 
 
 ## 📜 Full Project Report  
